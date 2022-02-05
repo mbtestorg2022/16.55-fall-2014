@@ -27,36 +27,334 @@ Mitchner, Morton, and Charles H. Kruger. _Partially Ionized Gases_. Vol. 8. John
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Assignments (5 homework problem sets total) | 50% |
-| Quizzes (2 total) | 50% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignments (5 homework problem sets total)
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes (2 total)
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Fundamentals of Plasma Physics. Larmor motion. Debye shielding. Plasma frequency. | &nbsp; |
-| 2 | Motion of Charges in Uniform E and B fields. Diamagnetism. ExB drift. Alfven waves. | &nbsp; |
-| 3 | Effects of an Inhomogeneous Magnetic Field. Inertia and grad-B drifts. Parallel drifts and magnetic mirrors. | &nbsp; |
-| 4 | Relationship between drifts and the fluid picture. | &nbsp; |
-| 5 | Time-varying B field. Adiabatic Invariants. | Homework 1 due |
-| 6-7 | Collision Theory. Energy and momentum transfer. Calculation of scattering cross sections: the hard sphere model and power-law potentials. | &nbsp; |
-| 8 | Kinetic Theory. Vlasov and Boltzmann Equations. Collisional terms. | &nbsp; |
-| 9 | Boltzmann’s H-Theorem. Relationship between H and S (Entropy). | &nbsp; |
-| 10-11 | The Equilibrium Distribution and its Properties. Characteristic energies and velocities for a Maxwellian distribution. | Homework 2 due during Lecture 10 |
-| 12 | Equilibrium in a Force Field. Distribution functions near repelling and attracting walls. | &nbsp; |
-| 13-14 | Moments of the Boltzmann Equation. Mass and momentum conservation. Kinetic energy equation. | &nbsp; |
-| &nbsp; | **Quiz 1** | Homework 3 due |
-| 15 | Maxwellian Collisions. Ohm’s Law. Ambipolar diffusion. | &nbsp; |
-|  16 | The Electron Energy Equation.   | &nbsp; |
-| 17 | Plasma-Wall Interactions: Sheath and Pre-sheath. Bohm condition. Random particle and kinetic energy flux across a plane. | &nbsp; |
-| 18 | Electrostatic Probes. Floating potential. Method of Medicus. | &nbsp; |
-| 19 | Probes in the Orbital Motion-Limited (OML) Regime. |  Homework 4 due |
-| 20-21 | Equilibrium Statistical Mechanics. Quantum statistics. Classical limit. Partition function. Multi-component systems. Translational partition function. | &nbsp; |
-| 22 | Some important results of Statistical Mechanics. Ionization equilibrium. Free electrons in metals. Black Body radiation. | &nbsp; |
-| 23 | The Electronic Partition Function for Atoms and Ions. The vibrational and rotational partition functions. Energy levels. | &nbsp; |
-| 24 | Radiation Transport in a Gas. Equilibrium distribution. Transport equation. Collisional operator. Spectral lines. Line-reversal pyrometer. |  Homework 5 due |
-| 25 | Semi-thick plasma approximation. Line radiation and broadening. Bound-free radiation. Bremsstrahlung. Escape for resonant radiation. | &nbsp; |
-| &nbsp; | **Quiz 2** |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamentals of Plasma Physics. Larmor motion. Debye shielding. Plasma frequency.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Motion of Charges in Uniform E and B fields. Diamagnetism. ExB drift. Alfven waves.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Effects of an Inhomogeneous Magnetic Field. Inertia and grad-B drifts. Parallel drifts and magnetic mirrors.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Relationship between drifts and the fluid picture.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Time-varying B field. Adiabatic Invariants.
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-7
+{{< tdclose >}}
+{{< tdopen >}}
+Collision Theory. Energy and momentum transfer. Calculation of scattering cross sections: the hard sphere model and power-law potentials.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetic Theory. Vlasov and Boltzmann Equations. Collisional terms.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Boltzmann’s H-Theorem. Relationship between H and S (Entropy).
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10-11
+{{< tdclose >}}
+{{< tdopen >}}
+The Equilibrium Distribution and its Properties. Characteristic energies and velocities for a Maxwellian distribution.
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 due during Lecture 10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Equilibrium in a Force Field. Distribution functions near repelling and attracting walls.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13-14
+{{< tdclose >}}
+{{< tdopen >}}
+Moments of the Boltzmann Equation. Mass and momentum conservation. Kinetic energy equation.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**Quiz 1**
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Maxwellian Collisions. Ohm’s Law. Ambipolar diffusion.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 16
+{{< tdclose >}}
+{{< tdopen >}}
+The Electron Energy Equation.  
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Plasma-Wall Interactions: Sheath and Pre-sheath. Bohm condition. Random particle and kinetic energy flux across a plane.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Electrostatic Probes. Floating potential. Method of Medicus.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Probes in the Orbital Motion-Limited (OML) Regime.
+{{< tdclose >}}
+{{< tdopen >}}
+ Homework 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20-21
+{{< tdclose >}}
+{{< tdopen >}}
+Equilibrium Statistical Mechanics. Quantum statistics. Classical limit. Partition function. Multi-component systems. Translational partition function.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Some important results of Statistical Mechanics. Ionization equilibrium. Free electrons in metals. Black Body radiation.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+The Electronic Partition Function for Atoms and Ions. The vibrational and rotational partition functions. Energy levels.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Radiation Transport in a Gas. Equilibrium distribution. Transport equation. Collisional operator. Spectral lines. Line-reversal pyrometer.
+{{< tdclose >}}
+{{< tdopen >}}
+ Homework 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Semi-thick plasma approximation. Line radiation and broadening. Bound-free radiation. Bremsstrahlung. Escape for resonant radiation.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+**Quiz 2**
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
