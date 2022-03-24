@@ -34,7 +34,7 @@ Curriculum Information
 
 ### Requirements Satisfied
 
-16.55 can be applied toward a [graduate degree](http://aeroastro.mit.edu/graduate-program/fields-study) in ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Space Propulsion Engineering (PDF)](http://mit.edu/aeroastro/academics/grad/spacepropulsion.pdf) or ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Space Systems Engineering (PDF)](http://mit.edu/aeroastro/academics/grad/spacesystems.pdf) from the [Department of Aeronautics and Astronautics](http://aeroastro.mit.edu/).
+16.55 can be applied toward a [graduate degree](http://aeroastro.mit.edu/graduate-program/fields-study) in [Space Propulsion Engineering (PDF)](http://mit.edu/aeroastro/academics/grad/spacepropulsion.pdf) or [Space Systems Engineering (PDF)](http://mit.edu/aeroastro/academics/grad/spacesystems.pdf) from the [Department of Aeronautics and Astronautics](http://aeroastro.mit.edu/).
 
 ### Offered
 
@@ -75,7 +75,7 @@ Graduate students
 
 ### Breakdown by Major
 
-Aeronautics and Astronautics graduate students in ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Space Propulsion (PDF)](http://mit.edu/aeroastro/academics/grad/spacepropulsion.pdf) or ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Space Systems Engineering (PDF)](http://mit.edu/aeroastro/academics/grad/spacesystems.pdf) degree programs.
+Aeronautics and Astronautics graduate students in [Space Propulsion (PDF)](http://mit.edu/aeroastro/academics/grad/spacepropulsion.pdf) or [Space Systems Engineering (PDF)](http://mit.edu/aeroastro/academics/grad/spacesystems.pdf) degree programs.
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
