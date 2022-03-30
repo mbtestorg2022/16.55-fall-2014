@@ -30,7 +30,7 @@ Curriculum Information
 
 ### Prerequisites
 
-[_8.03 Physics III_](/courses/8-03-physics-iii-spring-2003/)
+[_8.03 Physics III_](/courses/8-03-physics-iii-spring-2003)
 
 ### Requirements Satisfied
 

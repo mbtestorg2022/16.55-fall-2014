@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 45afe4dd-1028-b370-38f8-fe50e0356c4b
 resourcetype: Image
 title: 16-55_classroom-1.jpg
 uid: 31b0356d-94a1-96c7-bdbb-0b0d2618b433

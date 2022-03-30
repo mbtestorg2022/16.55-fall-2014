@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 45afe4dd-1028-b370-38f8-fe50e0356c4b
 resourcetype: Image
 title: 16-55_stat-students.png
 uid: 26422957-ee94-9e05-b59f-eb98b479b66a
